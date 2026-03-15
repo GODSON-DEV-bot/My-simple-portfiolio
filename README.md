@@ -1,2 +1,2 @@
-# My-simple-portfiolio
-my front end portfolio
+#simple registration form
+my simple registraton form
